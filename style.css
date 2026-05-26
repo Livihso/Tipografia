@@ -1,0 +1,28 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-display: medium;
+    font-size: 15px;
+    line-height: 2.0;
+    background-color:rgb(250, 239, 225);
+    color: rgba(31, 31, 23, 0.914);
+}
+
+.Serif {
+    font-family: serif;
+}
+
+.Alo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Sans-serif {
+    font-family: sans-serif;
+}
+
+.Monospace {
+    font-family: monospace;
+}
+
+.Cursiva {
+    font-family: cursive;
+}
